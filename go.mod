@@ -1,4 +1,4 @@
-module github.com/adagit94/cl
+module github.com/adagit94/cryl
 
 go 1.26.4
 
